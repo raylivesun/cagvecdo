@@ -1,0 +1,46 @@
+Here's a thinking process for generating a business news summary:
+
+1.  **Identify the User's Need:** The user simply asked for "business news." This is broad, so the goal is to provide a concise, relevant overview of major current themes and potentially some specific examples. It needs to be timely but acknowledge the rapid pace of news.
+
+2.  **Brainstorm Major Business Areas/Themes:** What are the consistent drivers and topics in business news?
+    *   Stock Markets / Investing (Indices, individual stocks, sentiment)
+    *   Economy (Inflation, interest rates, GDP, jobs)
+    *   Specific Industries (Tech, energy, retail, finance, healthcare)
+    *   Major Corporations (Earnings, M&A, leadership changes, product launches)
+    *   Technology Trends (AI, EVs, semiconductors)
+    *   Global Factors (Geopolitics, trade, supply chains)
+    *   Consumer Behavior (Spending, confidence)
+
+3.  **Filter for *Current* Relevance:** Which of these themes are particularly active *right now* or have been major stories recently?
+    *   **Economy:** Inflation data (CPI/PPI) and central bank actions (Fed interest rates) are almost *always* relevant and usually have upcoming releases or recent impacts. *Keep this.*
+    *   **Markets:** Tied directly to economic data and Fed. Market reaction is key. *Keep this.*
+    *   **Corporations:** Earnings season is cyclical. Check if it's ongoing or recently finished. *Check status - often ongoing or recent.*
+    *   **Technology:** AI is a dominant, persistent theme. Hard to ignore. *Keep this.*
+    *   **Geopolitics/Global:** Energy prices (oil) are often volatile due to geopolitics (Middle East, Russia/Ukraine). US-China trade is a background constant. *Keep energy/geopolitics.*
+    *   **Consumer:** Retail sales data and reports from major retailers give clues about consumer health, which is crucial for the economy. *Keep this.*
+
+4.  **Structure the Summary:** A good structure makes the information digestible.
+    *   **Opening Caveat:** State that news changes fast and direct sources are best.
+    *   **Categorize by Theme:** Group related items (e.g., Markets/Economy). Use clear headings or bullet points.
+    *   **Provide a Headline Example:** For each theme, create a plausible, representative headline. This makes the theme concrete.
+    *   **Add a Brief Summary:** Explain *why* this theme is important and what the typical news angle is.
+    *   **Suggest Reputable Sources:** Guide the user to where they can find real-time, detailed information.
+    *   **Ask for Specificity:** Offer to narrow down the focus if the user has a particular interest.
+
+5.  **Draft the Content (Iterative Process):**
+
+    *   *Initial thought (Markets/Economy):* Stocks are up/down because of inflation. -> *Refinement:* Markets are *waiting* for inflation data (CPI) and the Fed's decision on rates. This anticipation drives current behavior (caution/volatility). Headline: "Markets Anxious Ahead of CPI Data and Fed Meeting." Summary: Explain the link between inflation, rates, and market reaction.
+    *   *Initial thought (Companies):* Apple reported earnings. -> *Refinement:* Generalize to "Corporate Earnings." Mention it's a *season*. Give examples of *types* of companies often watched (Tech, Retail). Headline: "[Big Company Name] Earnings Beat/Miss, Stock Moves." Summary: Explain focus on results vs. expectations and future guidance.
+    *   *Initial thought (Tech):* AI is big. -> *Refinement:* Specify *who* (Big Tech - MSFT, GOOGL, etc.) and *what* (investments, competition, new models). Headline: "Tech Giants Deepen AI Investment Amid Fierce Competition." Summary: Highlight ongoing investment and competitive dynamics.
+    *   *Initial thought (Global):* Stuff happening overseas affects oil. -> *Refinement:* Be more specific: Geopolitics (Middle East tensions, OPEC+) and global demand outlook influence oil prices. Headline: "Oil Prices Volatile on Geopolitical Jitters and Demand Concerns." Summary: Explain the supply/demand factors. Add trade as another relevant global point.
+    *   *Initial thought (Consumers):* People are buying stuff. -> *Refinement:* Focus on *data* (Retail Sales) and *trends* (shift from discretionary to essentials?). Headline: "Retail Sales Data Mixed; Consumers Watch Spending." Summary: Connect spending to economic health and mention potential shifts in priorities.
+
+6.  **Review and Refine:**
+    *   Is it concise?
+    *   Is it balanced across major areas?
+    *   Is the language clear and accessible?
+    *   Does it emphasize the *current* nature of the news?
+    *   Does it include the crucial caveat about checking live sources?
+    *   Is the call to action (asking for more specific interest) clear?
+
+7.  **Final Polish:** Check for typos, grammatical errors, and flow. Ensure the tone is informative and neutral.
